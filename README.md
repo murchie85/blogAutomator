@@ -2,6 +2,12 @@
 
 This project is a Python script that automates the creation of HTML pages. The script uses a predefined template, injects custom content at specific placeholders, and writes the resulting content to a new file.
 
+
+## Stretch goal 
+
+To do tech blog summaries with GPT engines but keep a human in a loop. It builds html, makes up url, title etc. I do summariser and final touches with images. 
+
+
 ## Usage
 
 1. Update the `values.txt` file with the required variables. Each line should contain the following information, in the following order:
